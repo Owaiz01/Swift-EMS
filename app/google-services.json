@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949614521567",
+    "project_id": "swiftems-28f91",
+    "storage_bucket": "swiftems-28f91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949614521567:android:7803d663ec38cda4540d6a",
+        "android_client_info": {
+          "package_name": "com.example.swiftems_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWhJcrS5khHH_psYmROtR8qdwACiwJQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
